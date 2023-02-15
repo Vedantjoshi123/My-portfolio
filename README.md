@@ -5,7 +5,8 @@ Welcome to my portfolio website! As a web developer and designer, I've created a
 
 
 
-![Screenshot (48)](https://user-images.githubusercontent.com/91942752/218899826-59205966-81fc-48ef-96de-9e6752dc642a.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/91942752/219023435-23331db6-b931-4bbb-a245-c33133835ca4.png)
+
 ![Screenshot (49)](https://user-images.githubusercontent.com/91942752/218899829-7a0f1ebe-511b-4233-a56e-0336c11a469c.png)
 ![Screenshot (50)](https://user-images.githubusercontent.com/91942752/218899831-5b627809-aead-4a00-9bd0-e8fafc85814d.png)
 ![Screenshot (51)](https://user-images.githubusercontent.com/91942752/218899833-d71f412d-2b7b-4347-8cce-90f64fa2f3ff.png)
